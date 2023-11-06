@@ -1,4 +1,4 @@
-# [Crayon]([https://www.crayon.com/sg/]) - redesign your room with AI
+# [Crayon]([https://www.crayon.com/sg/]) - calculate AGBM (above ground biomass) with .tif inputs 
 
 ### Creating a account on Replicate to get an API key.
 1. Go to [Replicate](https://replicate.com/) to make an account.
